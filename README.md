@@ -1,8 +1,7 @@
-
 ![Logo](https://cdn.discordapp.com/attachments/1084279612831440978/1139731794028146738/Polarix_Framework_Title.png)
 
 
-# Polarix.
+# Polarix (Still a WIP).
 
 The "Polarix" Framework is a library specially designed towards Third-Person Shooters.
 It's powerful, yet simple in it's design; the developer experience is much closer to ACS for easy usage and adaptability.
