@@ -1,7 +1,10 @@
+# DISCLAIMER: THIS IS STILL A WIP!!
+
+
 ![Logo](https://cdn.discordapp.com/attachments/1084279612831440978/1139731794028146738/Polarix_Framework_Title.png)
 
 
-# Polarix (Still a WIP).
+# Polarix.
 
 The "Polarix" Framework is a library specially designed towards Third-Person Shooters.
 It's powerful, yet simple in it's design; the developer experience is much closer to ACS for easy usage and adaptability.
@@ -28,6 +31,12 @@ It's powerful, yet simple in it's design; the developer experience is much close
 ## Instructions
 
 
+
+## Appendix
+
+- The raycast starts from the gun model's BARREL. Meaning there has to be a "Barrel" MeshObject for your gun.
+- Raycast ends at the mouse's position.
+- Highly unfinished and a lot are yet to come.
 
 ## Authors
 
