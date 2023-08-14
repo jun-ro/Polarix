@@ -30,6 +30,8 @@ It's powerful, yet simple in it's design; the developer experience is much close
 
 ## Instructions
 
+Download the Roblox Model from [Roblox's creator marketplace]() and Install within Roblox Studio, 
+once installed, unpack into the correct places and play the game!
 
 
 ## Appendix
